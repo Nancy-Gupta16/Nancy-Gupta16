@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Nancy!<br>Linux Administrator | Infrastructure & Monitoring Engineer | Cloud Operations<br>I’m an IT professional with over 2 years of experience at Tata Consultancy Services (TCS)[cite: 1, 2]. I specialize in enterprise infrastructure monitoring using Microsoft SCOM, Linux system administration, and maintaining reliable, high-availability server operations[cite: 1, 2].<br><br>🛠️ What I'm Up To:<br>🔭 I’m currently working on: Enterprise infrastructure health monitoring, alert tuning, and incident resolution across Linux and Windows environments at TCS[cite: 1, 2].<br><br>🤝 I’m looking to collaborate on: Linux administration automation, bash scripting, server monitoring workflows, and cloud infrastructure projects[cite: 1].<br><br>🆘 I’m looking for help with: Deepening AWS cloud-native architecture skills and advanced automation for enterprise monitoring pipelines[cite: 1].<br><br>🌱 I’m currently learning: Advanced AWS infrastructure solutions, containerization, and automation tools to augment my system administration skillset[cite: 1].<br><br>💬 Ask me about: Microsoft SCOM, Red Hat Enterprise Linux (RHEL), LVM, storage protocols (RAID, SCSI, iSCSI), system services, and ITIL incident management via ServiceNow[cite: 1].<br><br>⚡ Fun Fact:<br>"Keeping enterprise uptime intact means I treat critical server alerts like emergency dispatch calls—diagnosing disk space, service drops, and bottlenecks before end-users ever notice."[cite: 1, 2]
 
-<!--
-**Nancy-Gupta16/Nancy-Gupta16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nancykumarigupta) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2002nancy.gupta161@gmail.com)[cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nancykumarigupta&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nancykumarigupta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nancykumarigupta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://komarev.com/ghpvc/?username=nancykumarigupta&icon=0&color=0)](https://visitcount.itsvg.in)
